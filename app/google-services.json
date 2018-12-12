@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1031074444406",
+    "firebase_url": "https://dytest-7529d.firebaseio.com",
+    "project_id": "dytest-7529d",
+    "storage_bucket": "dytest-7529d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031074444406:android:327d0a20b6643a53",
+        "android_client_info": {
+          "package_name": "com.example.acer.dytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031074444406-pm2hqhmutc6jt04br8ron2j09631qrnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.dytest",
+            "certificate_hash": "f85d73075cc65fe836522572633bf475462af9f2"
+          }
+        },
+        {
+          "client_id": "1031074444406-a9nnp5a6h6jvgk8tfkij5nc4tmv5q4tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4TdoFSehWSybtDHtX2wDL1zc7f6I_b9o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031074444406-a9nnp5a6h6jvgk8tfkij5nc4tmv5q4tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
